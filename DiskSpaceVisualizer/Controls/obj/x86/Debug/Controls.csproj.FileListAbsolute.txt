@@ -1,0 +1,77 @@
+C:\Users\Stollnitz\Documents\Blog\BlogPosts\66PieChartWithLabelsUpdated\Controls\bin\x86\Debug\Controls.dll
+C:\Users\Stollnitz\Documents\Blog\BlogPosts\66PieChartWithLabelsUpdated\Controls\bin\x86\Debug\Controls.pdb
+C:\Users\Stollnitz\Documents\Blog\BlogPosts\66PieChartWithLabelsUpdated\Controls\bin\x86\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\Stollnitz\Documents\Blog\BlogPosts\66PieChartWithLabelsUpdated\Controls\bin\x86\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\Stollnitz\Documents\Blog\BlogPosts\66PieChartWithLabelsUpdated\Controls\bin\x86\Debug\WPFToolkit.Design.dll
+C:\Users\Stollnitz\Documents\Blog\BlogPosts\66PieChartWithLabelsUpdated\Controls\bin\x86\Debug\WPFToolkit.dll
+C:\Users\Stollnitz\Documents\Blog\BlogPosts\66PieChartWithLabelsUpdated\Controls\bin\x86\Debug\WPFToolkit.Design.pdb
+C:\Users\Stollnitz\Documents\Blog\BlogPosts\66PieChartWithLabelsUpdated\Controls\bin\x86\Debug\System.Windows.Controls.DataVisualization.Toolkit.pdb
+C:\Users\Stollnitz\Documents\Blog\BlogPosts\66PieChartWithLabelsUpdated\Controls\bin\x86\Debug\System.Windows.Controls.Input.Toolkit.pdb
+C:\Users\Stollnitz\Documents\Blog\BlogPosts\66PieChartWithLabelsUpdated\Controls\bin\x86\Debug\WPFToolkit.pdb
+C:\Users\Stollnitz\Documents\Blog\BlogPosts\66PieChartWithLabelsUpdated\Controls\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Stollnitz\Documents\Blog\BlogPosts\66PieChartWithLabelsUpdated\Controls\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Stollnitz\Documents\Blog\BlogPosts\66PieChartWithLabelsUpdated\Controls\obj\x86\Debug\Controls_MarkupCompile.cache
+C:\Users\Stollnitz\Documents\Blog\BlogPosts\66PieChartWithLabelsUpdated\Controls\obj\x86\Debug\Controls_MarkupCompile.lref
+C:\Users\Stollnitz\Documents\Blog\BlogPosts\66PieChartWithLabelsUpdated\Controls\obj\x86\Debug\Themes\Generic.baml
+C:\Users\Stollnitz\Documents\Blog\BlogPosts\66PieChartWithLabelsUpdated\Controls\obj\x86\Debug\Controls.g.resources
+C:\Users\Stollnitz\Documents\Blog\BlogPosts\66PieChartWithLabelsUpdated\Controls\obj\x86\Debug\Controls.Properties.Resources.resources
+C:\Users\Stollnitz\Documents\Blog\BlogPosts\66PieChartWithLabelsUpdated\Controls\obj\x86\Debug\Controls.csproj.GenerateResource.Cache
+C:\Users\Stollnitz\Documents\Blog\BlogPosts\66PieChartWithLabelsUpdated\Controls\obj\x86\Debug\Controls.dll
+C:\Users\Stollnitz\Documents\Blog\BlogPosts\66PieChartWithLabelsUpdated\Controls\obj\x86\Debug\Controls.pdb
+C:\Users\Stollnitz\Documents\Blog\BlogPosts\67PieChartWithLabelsUpdated\PieChartWithLabels - WPF\Controls\bin\x86\Debug\Controls.dll
+C:\Users\Stollnitz\Documents\Blog\BlogPosts\67PieChartWithLabelsUpdated\PieChartWithLabels - WPF\Controls\bin\x86\Debug\Controls.pdb
+C:\Users\Stollnitz\Documents\Blog\BlogPosts\67PieChartWithLabelsUpdated\PieChartWithLabels - WPF\Controls\bin\x86\Debug\WPFToolkit.Design.pdb
+C:\Users\Stollnitz\Documents\Blog\BlogPosts\67PieChartWithLabelsUpdated\PieChartWithLabels - WPF\Controls\bin\x86\Debug\System.Windows.Controls.DataVisualization.Toolkit.pdb
+C:\Users\Stollnitz\Documents\Blog\BlogPosts\67PieChartWithLabelsUpdated\PieChartWithLabels - WPF\Controls\bin\x86\Debug\System.Windows.Controls.Input.Toolkit.pdb
+C:\Users\Stollnitz\Documents\Blog\BlogPosts\67PieChartWithLabelsUpdated\PieChartWithLabels - WPF\Controls\bin\x86\Debug\WPFToolkit.pdb
+C:\Users\Stollnitz\Documents\Blog\BlogPosts\67PieChartWithLabelsUpdated\PieChartWithLabels - WPF\Controls\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Stollnitz\Documents\Blog\BlogPosts\67PieChartWithLabelsUpdated\PieChartWithLabels - WPF\Controls\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Stollnitz\Documents\Blog\BlogPosts\67PieChartWithLabelsUpdated\PieChartWithLabels - WPF\Controls\obj\x86\Debug\Controls_MarkupCompile.cache
+C:\Users\Stollnitz\Documents\Blog\BlogPosts\67PieChartWithLabelsUpdated\PieChartWithLabels - WPF\Controls\obj\x86\Debug\Controls_MarkupCompile.lref
+C:\Users\Stollnitz\Documents\Blog\BlogPosts\67PieChartWithLabelsUpdated\PieChartWithLabels - WPF\Controls\obj\x86\Debug\Themes\Generic.baml
+C:\Users\Stollnitz\Documents\Blog\BlogPosts\67PieChartWithLabelsUpdated\PieChartWithLabels - WPF\Controls\obj\x86\Debug\Controls.g.resources
+C:\Users\Stollnitz\Documents\Blog\BlogPosts\67PieChartWithLabelsUpdated\PieChartWithLabels - WPF\Controls\obj\x86\Debug\Controls.Properties.Resources.resources
+C:\Users\Stollnitz\Documents\Blog\BlogPosts\67PieChartWithLabelsUpdated\PieChartWithLabels - WPF\Controls\obj\x86\Debug\Controls.csproj.GenerateResource.Cache
+C:\Users\Stollnitz\Documents\Blog\BlogPosts\67PieChartWithLabelsUpdated\PieChartWithLabels - WPF\Controls\obj\x86\Debug\Controls.dll
+C:\Users\Stollnitz\Documents\Blog\BlogPosts\67PieChartWithLabelsUpdated\PieChartWithLabels - WPF\Controls\obj\x86\Debug\Controls.pdb
+F:\Rajesh\OpenSource\WPF_Toolkit\libs\PieChartWithLabelsWPF\PieChartWithLabels - WPF\Controls\bin\x86\Debug\Controls.dll
+F:\Rajesh\OpenSource\WPF_Toolkit\libs\PieChartWithLabelsWPF\PieChartWithLabels - WPF\Controls\bin\x86\Debug\Controls.pdb
+F:\Rajesh\OpenSource\WPF_Toolkit\libs\PieChartWithLabelsWPF\PieChartWithLabels - WPF\Controls\bin\x86\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+F:\Rajesh\OpenSource\WPF_Toolkit\libs\PieChartWithLabelsWPF\PieChartWithLabels - WPF\Controls\bin\x86\Debug\System.Windows.Controls.Input.Toolkit.dll
+F:\Rajesh\OpenSource\WPF_Toolkit\libs\PieChartWithLabelsWPF\PieChartWithLabels - WPF\Controls\bin\x86\Debug\WPFToolkit.Design.dll
+F:\Rajesh\OpenSource\WPF_Toolkit\libs\PieChartWithLabelsWPF\PieChartWithLabels - WPF\Controls\bin\x86\Debug\WPFToolkit.dll
+F:\Rajesh\OpenSource\WPF_Toolkit\libs\PieChartWithLabelsWPF\PieChartWithLabels - WPF\Controls\bin\x86\Debug\WPFToolkit.Design.pdb
+F:\Rajesh\OpenSource\WPF_Toolkit\libs\PieChartWithLabelsWPF\PieChartWithLabels - WPF\Controls\bin\x86\Debug\System.Windows.Controls.DataVisualization.Toolkit.pdb
+F:\Rajesh\OpenSource\WPF_Toolkit\libs\PieChartWithLabelsWPF\PieChartWithLabels - WPF\Controls\bin\x86\Debug\System.Windows.Controls.Input.Toolkit.pdb
+F:\Rajesh\OpenSource\WPF_Toolkit\libs\PieChartWithLabelsWPF\PieChartWithLabels - WPF\Controls\bin\x86\Debug\WPFToolkit.pdb
+F:\Rajesh\OpenSource\WPF_Toolkit\libs\PieChartWithLabelsWPF\PieChartWithLabels - WPF\Controls\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Rajesh\OpenSource\WPF_Toolkit\libs\PieChartWithLabelsWPF\PieChartWithLabels - WPF\Controls\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Rajesh\OpenSource\WPF_Toolkit\libs\PieChartWithLabelsWPF\PieChartWithLabels - WPF\Controls\obj\x86\Debug\Controls_MarkupCompile.cache
+F:\Rajesh\OpenSource\WPF_Toolkit\libs\PieChartWithLabelsWPF\PieChartWithLabels - WPF\Controls\obj\x86\Debug\Controls_MarkupCompile.lref
+F:\Rajesh\OpenSource\WPF_Toolkit\libs\PieChartWithLabelsWPF\PieChartWithLabels - WPF\Controls\obj\x86\Debug\Themes\Generic.baml
+F:\Rajesh\OpenSource\WPF_Toolkit\libs\PieChartWithLabelsWPF\PieChartWithLabels - WPF\Controls\obj\x86\Debug\Controls.g.resources
+F:\Rajesh\OpenSource\WPF_Toolkit\libs\PieChartWithLabelsWPF\PieChartWithLabels - WPF\Controls\obj\x86\Debug\Controls.Properties.Resources.resources
+F:\Rajesh\OpenSource\WPF_Toolkit\libs\PieChartWithLabelsWPF\PieChartWithLabels - WPF\Controls\obj\x86\Debug\Controls.csproj.GenerateResource.Cache
+F:\Rajesh\OpenSource\WPF_Toolkit\libs\PieChartWithLabelsWPF\PieChartWithLabels - WPF\Controls\obj\x86\Debug\Controls.dll
+F:\Rajesh\OpenSource\WPF_Toolkit\libs\PieChartWithLabelsWPF\PieChartWithLabels - WPF\Controls\obj\x86\Debug\Controls.pdb
+F:\Rajesh\MyOpenSource\DiskSpaceVisualizer\Controls\bin\x86\Debug\Controls.dll
+F:\Rajesh\MyOpenSource\DiskSpaceVisualizer\Controls\bin\x86\Debug\Controls.pdb
+F:\Rajesh\MyOpenSource\DiskSpaceVisualizer\Controls\bin\x86\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+F:\Rajesh\MyOpenSource\DiskSpaceVisualizer\Controls\bin\x86\Debug\System.Windows.Controls.Input.Toolkit.dll
+F:\Rajesh\MyOpenSource\DiskSpaceVisualizer\Controls\bin\x86\Debug\WPFToolkit.Design.dll
+F:\Rajesh\MyOpenSource\DiskSpaceVisualizer\Controls\bin\x86\Debug\WPFToolkit.dll
+F:\Rajesh\MyOpenSource\DiskSpaceVisualizer\Controls\bin\x86\Debug\System.Windows.Controls.DataVisualization.Toolkit.pdb
+F:\Rajesh\MyOpenSource\DiskSpaceVisualizer\Controls\bin\x86\Debug\System.Windows.Controls.Input.Toolkit.pdb
+F:\Rajesh\MyOpenSource\DiskSpaceVisualizer\Controls\bin\x86\Debug\WPFToolkit.pdb
+F:\Rajesh\MyOpenSource\DiskSpaceVisualizer\Controls\bin\x86\Debug\WPFToolkit.Design.pdb
+F:\Rajesh\MyOpenSource\DiskSpaceVisualizer\Controls\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Rajesh\MyOpenSource\DiskSpaceVisualizer\Controls\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Rajesh\MyOpenSource\DiskSpaceVisualizer\Controls\obj\x86\Debug\Controls_MarkupCompile.cache
+F:\Rajesh\MyOpenSource\DiskSpaceVisualizer\Controls\obj\x86\Debug\Controls_MarkupCompile.lref
+F:\Rajesh\MyOpenSource\DiskSpaceVisualizer\Controls\obj\x86\Debug\Themes\Generic.baml
+F:\Rajesh\MyOpenSource\DiskSpaceVisualizer\Controls\obj\x86\Debug\Controls.g.resources
+F:\Rajesh\MyOpenSource\DiskSpaceVisualizer\Controls\obj\x86\Debug\Controls.Properties.Resources.resources
+F:\Rajesh\MyOpenSource\DiskSpaceVisualizer\Controls\obj\x86\Debug\ResGen.read.1.tlog
+F:\Rajesh\MyOpenSource\DiskSpaceVisualizer\Controls\obj\x86\Debug\ResGen.write.1.tlog
+F:\Rajesh\MyOpenSource\DiskSpaceVisualizer\Controls\obj\x86\Debug\Controls.dll
+F:\Rajesh\MyOpenSource\DiskSpaceVisualizer\Controls\obj\x86\Debug\Controls.pdb

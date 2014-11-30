@@ -1,0 +1,129 @@
+﻿<Window x:Class="DiskSpaceVisualizer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:DV="clr-namespace:System.Windows.Controls.DataVisualization;assembly=System.Windows.Controls.DataVisualization.Toolkit"
+        xmlns:DVC="clr-namespace:System.Windows.Controls.DataVisualization.Charting;assembly=System.Windows.Controls.DataVisualization.Toolkit"
+        xmlns:customControls="clr-namespace:Controls;assembly=Controls"
+        xmlns:local="clr-namespace:DiskSpaceVisualizer"
+        xmlns:vc="clr-namespace:Visifire.Charts;assembly=WPFVisifire.Charts"
+        
+        Title="MainWindow" Height="600" Width="800">
+    
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50px"></RowDefinition>
+            <RowDefinition Height="50px"></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height="40px"></RowDefinition>
+            
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="150px"></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        
+        
+        <TreeView x:Name="tvwExplorer" Grid.Row="2" Grid.Column="0">
+        </TreeView>
+        
+        <!--<DVC:Chart Grid.Row="1" Grid.Column="2" Name="chart"
+                 Background="LightSteelBlue">
+            <DVC:PieSeries Title="Disk Visualizer" 
+                     IndependentValueBinding="{Binding Path=Key}"
+                     DependentValueBinding="{Binding Path=Value}">
+            </DVC:PieSeries>
+            
+        </DVC:Chart>-->
+
+        <!--<customControls:LabeledPieChart
+            x:Name="chart"
+            Title="Disk Visualizer"
+            Grid.Row="1" Grid.Column="2"
+            BorderBrush="Gray"
+            >
+            <customControls:LabeledPieChart.Series>
+                <customControls:LabeledPieSeries 
+					x:Name="labeledPieSeries"
+					ItemsSource="{Binding}" 
+					IndependentValuePath="Key" 
+					DependentValuePath="Value" 
+					IsSelectionEnabled="True" 
+					LabelDisplayMode="Auto"
+					/>
+            </customControls:LabeledPieChart.Series>
+        </customControls:LabeledPieChart>-->
+        
+        <TextBlock x:Name="tbHeader" Grid.Row="0" Grid.Column="1" HorizontalAlignment="Center" 
+                   VerticalAlignment="Center" Text="VISUAL DISK ANALYZER">
+            <TextBlock.Resources>
+                <Style TargetType="{x:Type TextBlock}">
+                    <Setter Property="Background" Value="LightBlue" />
+                    <Setter Property="Margin" Value="2,4" />
+                 </Style>
+            </TextBlock.Resources>
+
+        </TextBlock>
+
+        <Slider Name="zoomSlider" Grid.Row="0" Grid.Column="0" Height="20"
+            DockPanel.Dock="Top" Minimum="1" Maximum="5" Value="1"/>
+
+
+        <ScrollViewer Grid.Row="2" Grid.Column="1" CanContentScroll="True"
+              HorizontalScrollBarVisibility="Auto"
+              VerticalScrollBarVisibility="Auto">
+
+            <vc:Chart Theme="Theme1"  x:Name="chart" View3D="True" ToolTipEnabled="True" Grid.Row="2" Grid.Column="1" Watermark="False" Margin="0,55,0,-15" Grid.RowSpan="2">
+            <vc:Chart.Titles>
+                <vc:Title Text="Disk Statistics"/>
+            </vc:Chart.Titles>
+            <!--<vc:Chart.Series>
+                <vc:DataSeries RenderAs="Pie" ShowInLegend="True" DataSource="{Binding}">
+                    <vc:DataSeries.DataMappings>
+                        <vc:DataMapping MemberName="AxisXLabel" Path="Key"></vc:DataMapping>
+                        <vc:DataMapping  MemberName="YValue" Path="Value"></vc:DataMapping>
+                    </vc:DataSeries.DataMappings>
+                </vc:DataSeries>
+            </vc:Chart.Series>-->
+
+            <vc:Chart.LayoutTransform>
+                <ScaleTransform
+                          ScaleX="{Binding ElementName=zoomSlider, Path=Value}"
+                          ScaleY="{Binding ElementName=zoomSlider, Path=Value}"/>
+            </vc:Chart.LayoutTransform>
+
+        </vc:Chart>
+        </ScrollViewer>
+        
+        <Button x:Name="btnStop" Grid.Row="1" Width="70" Height="20" HorizontalAlignment="Left" VerticalAlignment="Bottom" Click="btnStop_Click">
+            <TextBlock>Stop</TextBlock>
+        </Button>
+
+        <StackPanel Grid.Row="1" Grid.Column="2" Orientation="Horizontal">
+        <TextBlock Height="20" x:Name="tbType" Text="Chart Type :" Grid.Row="1" Grid.Column="2"></TextBlock>
+        <ComboBox x:Name="cboChartType"  SelectionChanged="cboChartType_SelectionChanged"
+                                Grid.Row="1" Grid.Column="1" Height="20" Width="150" >
+            <ComboBoxItem Content="Pie"></ComboBoxItem>
+            <ComboBoxItem Content="Column"></ComboBoxItem>
+            <ComboBoxItem Content="Bar"></ComboBoxItem>
+
+        </ComboBox>
+
+        <TextBlock Height="20" x:Name="tbLastNDays" Text="    Last 'n' Days" ></TextBlock>
+        <TextBox x:Name="txtLastNDays" Height="20" Width="60" Text="30"></TextBox>
+        
+        <TextBlock Height="20" x:Name="tbFolder" Text="    Folder path" ></TextBlock>
+        <TextBox x:Name="txtPath" Height="20" Width="60" Text="C:\"></TextBox>
+            <Button x:Name="btnShowDayStats"  Width="70" Height="20"  Click="btnShowDayStats_Click" >
+            <TextBlock>Show</TextBlock>
+        </Button>
+
+
+        </StackPanel>
+        <StatusBar Name="sbMessage" Grid.Row="3" Grid.Column="2">
+            <TextBlock Name="tbSize" />
+        </StatusBar>
+
+
+    </Grid>
+    
+</Window>
